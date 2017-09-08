@@ -49,7 +49,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/allChakras.jpg">
+					<img src="allChakras.jpg">
 			</div>
 		<p>
 		Meditate with your Chakra Stones to balance and heal your chakras.
@@ -66,7 +66,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/rootChakra.png">
+					<img src="rootChakra.png">
 			</div>
 		<p class="root">
 		Sit with your legs crossed comfortably or lie on your stomach.
@@ -84,7 +84,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/sacralChakra.png">
+					<img src="sacralChakra.png">
 			</div>
 		<p class="sacral">
 		Lie on your back with the bottoms of your feet pressed together, relax the legs.
@@ -100,7 +100,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/solarplexusChakra.png">
+					<img src="solarplexusChakra.png">
 			</div>
 		<p class="solarplexus">
 		Lie on your back with your knees bent and feet on the floor. 
@@ -118,7 +118,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/heartChakra.png">
+					<img src="heartChakra.png">
 			</div>
 		<p class="heart">
 		Lie on your stomach with your legs slightly spread,
@@ -138,7 +138,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/throatChakra.png">
+					<img src="throatChakra.png">
 			</div>
 		<p class="throat">
 		Stand up so your throat is completely open. 
@@ -154,7 +154,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/browChakra.png">
+					<img src="browChakra.png">
 			</div>
 		<p class="brow">
 		Sit on your knees, lean forward so that your arms and forehead are on the ground. 
@@ -170,7 +170,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/crownChakra.png">
+					<img src="crownChakra.png">
 			</div>
 		<p class="crown">
 		Sit with your back straight. 
