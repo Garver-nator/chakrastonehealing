@@ -1,0 +1,249 @@
+<!-- 
+Michael Garver
+Chakra Stone Healing
+
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+	</script>
+	<![endif]-->
+	<title>Chakra Stone Healing</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="stylesheet.css">
+<meta name=viewport content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+
+<header>
+
+<a id="navButton" onclick="showMenu()">&#43;</a>
+<!-- menu modal -->
+	<nav id="myModal" class="modal">
+	
+	  <!-- menu content -->
+		<ul class="modal-content">
+			<span class="close">&times;</span>
+				<li id="gembuttons"><a href="index.html" >Home</a></li>
+				<li id="gembuttons"><a href="https://www.etsy.com/shop/WHITETIMEUS?ele=shop_open" target="_blank">Buy Stones</a></li>
+				<li id="gembuttons"><a href="learnChakras.html">Learn Chakras</a></li>
+				<!-- <li><a href="contactUs.html"> Contact Us</a></li> -->
+		</ul>
+	</nav>
+			
+<h1>Meditation</h1>
+
+</header>
+
+<main>
+
+<!-- ******************************************************* -->
+<div class="slideshow-container">
+	<div class="mySlides white">
+		<h3 style="margin-left: -10px;">Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/allChakras.jpg">
+			</div>
+		<p>
+		Meditate with your Chakra Stones to balance and heal your chakras.
+		</p>
+		<p>
+		Sit or lie comfortably in a quiet space. Clear your mind and slow your breathing. 
+		</p>
+		<p>
+		To maximize focus on the chakra, follow the instructions for poses and thoughts to meditate on.
+		</p>
+	</div>
+	<div class="mySlides root">
+		<h3>Root Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/rootChakra.png">
+			</div>
+		<p class="root">
+		Sit with your legs crossed comfortably or lie on your stomach.
+		Place a red chakra stone near the base of the spine if sitting or at the bottom of your back if lying down.
+		Inhale and contract the muscles between the anus and genitals, 
+		exhale and relax the muscles.
+		</p>
+		<p class="root">
+		Imagine each part of your body relaxing starting with your toes and moving up to your head.
+		</p>
+	</div>
+	
+	<div class="mySlides sacral">
+		<h3>Sacral Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/sacralChakra.png">
+			</div>
+		<p class="sacral">
+		Lie on your back with the bottoms of your feet pressed together, relax the legs.
+		Place an orange chakra stone on the lower abdomen. 
+		</p>
+		<p class="sacral">
+		Retrace the gratitude of someone trying to teach you.
+		</p>
+	</div>
+
+	<div class="mySlides solarplexus">
+		<h3 class="black">Solar Plexus Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/solarplexusChakra.png">
+			</div>
+		<p class="solarplexus">
+		Lie on your back with your knees bent and feet on the floor. 
+		Place a yellow chakra stone between the navel and the ribcage. 
+		Slightly lift your head as you exhale and lower your head as you inhale, 
+		but remain relaxed. Keep your head on the floor if there is too much muscle tension.
+		</p>
+		<p class="solarplexus">
+		Retrace the gratitude of someone making you feel welcome.
+		</p>
+	</div>
+
+	<div class="mySlides heart">
+		<h3>Heart Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/heartChakra.png">
+			</div>
+		<p class="heart">
+		Lie on your stomach with your legs slightly spread,
+		arms at your sides and palms facing the floor.
+		Place a green chakra stone at the center of your chest. 
+		As you exhale, lift your head, chest, then 
+		push upward with arms until heart is facing forward. 
+		As you inhale reverse the movement in your arms, chest, then head.
+		</p>
+		<p class="heart">
+		Retrace the gratitude of someone showing you love or forgiveness.
+		</p>
+	</div>
+
+	<div class="mySlides throat">
+		<h3>Throat Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/throatChakra.png">
+			</div>
+		<p class="throat">
+		Stand up so your throat is completely open. 
+		Hold a blue stone at the base of the throat, at the top of the breastbone. 
+		</p>
+		<p class="throat">
+		Speak out loud an instance of yourself giving a compliment.
+		</p>
+	</div>
+
+	<div class="mySlides brow">
+		<h3>Brow Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/browChakra.png">
+			</div>
+		<p class="brow">
+		Sit on your knees, lean forward so that your arms and forehead are on the ground. 
+		Place a dark blue or indigo gemstone between your eyes.
+		</p>
+		<p class="brow">
+		Retrace yourself accepting a good deed from someone.
+		</p>
+	</div>
+
+	<div class="mySlides crown">
+		<h3>Crown Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/crownChakra.png">
+			</div>
+		<p class="crown">
+		Sit with your back straight. 
+		Interlock fingers with a violet, gold or white gemstone in the center 
+		of your fingers. Place palms on top of head and 
+		exhale while lifting hands up. Inhale and lower 
+		hands on top of head. Visualize a white light connection 
+		between your head and the heavens. Once you can picture a strong connection, 
+		lower your hands and continue meditating.
+		</p>
+		<p class="crown">
+		Picture yourself filling up with white light recharging your body and spirit.
+		</p>
+	</div>
+</div>
+</main>
+	
+<script>
+document.body.style.overflow = "hidden";
+<!-- the nav modal box -->
+var modal = document.getElementById('myModal');
+var btn = document.getElementById("navButton");
+var span = document.getElementsByClassName("close")[0];
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+span.onclick = function() {
+    modal.style.display = "none";
+}
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+<!-- script to cue forward to next panel -->
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  if (n > slides.length) {slideIndex = 1} 
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none"; 
+  }
+  slides[slideIndex-1].style.display = "block"; 
+}
+
+</script>
+
+
+</body>
+</html>
+<!--
+how to play 2 audios at same time
+var snd1  = new Audio();
+var src1  = document.createElement("source");
+src1.type = "audio/mpeg";
+src1.src  = "audio/Dombra.mp3";
+snd1.appendChild(src1);
+
+var snd2  = new Audio();
+var src2  = document.createElement("source");
+src2.type = "audio/mpeg";
+src2.src  = "audio/(TESBIHAT).mp3";
+snd2.appendChild(src2);
+
+snd1.play(); snd2.play(); // Now both will play at the same time
+-->
