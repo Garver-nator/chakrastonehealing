@@ -50,7 +50,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/allChakras.jpg">
+					<img src="allChakras.jpg">
 			</div>
 		<p>
 		There are seven major chakras that <br>need balance to promote <br>a healthy lifestyle.
@@ -67,7 +67,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/rootChakra.png" class="root">
+					<img src="rootChakra.png" class="root">
 			</div>
 		<p class="root">
 		Root Chakra: the Muladhara is the chakra of stability, security and our basic needs. 
@@ -88,7 +88,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/sacralChakra.png" class="sacral">
+					<img src="sacralChakra.png" class="sacral">
 			</div>
 		<p class="sacral">
 		Sacral Chakra: the Svadhisthana chakra is our creativity and sexual center. 
@@ -107,7 +107,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/solarplexusChakra.png" class="solarplexus">
+					<img src="solarplexusChakra.png" class="solarplexus">
 			</div>
 		<p class="solarplexus">
 		Solar Plexus Chakra: the Manipura chakra means lustrous gem.
@@ -127,7 +127,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/heartChakra.png" class="heart">
+					<img src="heartChakra.png" class="heart">
 			</div>
 		<p class="heart">
 		Heart Chakra: the Anahata unites the lower chakras of matter and upper chakras of spirit. 
@@ -148,7 +148,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/throatChakra.png" class="throat">
+					<img src="throatChakra.png" class="throat">
 			</div>
 		<p class="throat">
 		Throat Chakra: the Vishuddha chakra is located in the throat and 
@@ -169,7 +169,7 @@ Chakra Stone Healing
 			<div class="centerDiv">
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/browChakra.png" class="brow">
+					<img src="browChakra.png" class="brow">
 			</div>
 		<p class="brow">
 		Brow Chakra: the Ajna chakra is located between the eyebrows.
@@ -194,7 +194,7 @@ Chakra Stone Healing
 
 				<button class="previous" onclick="plusSlides(-1)"><</button>
 				<button class="next" onclick="plusSlides(+1)">></button>
-					<img src="images/crownChakra.png" class="crown">
+					<img src="crownChakra.png" class="crown">
 			</div>
 		<p class="crown">
 		Crown Chakra: the Sahaswara chakra is located at the crown of the head. 
