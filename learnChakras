@@ -1,0 +1,257 @@
+<!-- 
+Michael Garver
+Chakra Stone Healing
+
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+	</script>
+	<![endif]-->
+	<title>Chakra Stone Healing</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="stylesheet.css">
+<meta name=viewport content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+
+<header>
+
+<a id="navButton" onclick="showMenu()">&#43;</a>
+<!-- menu modal -->
+	<nav id="myModal" class="modal">
+	
+	  <!-- menu content -->
+		<ul class="modal-content">
+			<span class="close">&times;</span>
+				<li id="gembuttons"><a href="index.html" >Home</a></li>
+				<li id="gembuttons"><a href="https://www.etsy.com/shop/WHITETIMEUS?ele=shop_open" target="_blank">Buy Stones</a></li>
+				<li id="gembuttons"><a href="meditation.html">Meditation</a></li>
+				<!-- <li><a href="contactUs.html"> Contact Us</a></li>  -->
+		</ul>
+	</nav>
+			
+<h1>Learn Chakras</h1>
+
+</header>
+
+<main>
+	
+
+<!-- ******************************************************* -->
+<div class="slideshow-container">
+	<div class="mySlides white">
+		<h3 style="margin-left: -10px;">Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/allChakras.jpg">
+			</div>
+		<p>
+		There are seven major chakras that <br>need balance to promote <br>a healthy lifestyle.
+		</p>
+		<p>
+		Gemstones have different colors and types that affect the chakras. 
+		</p>
+		<p>
+		In addition to meditation, daily life can strengthen your chakras.
+		</p>
+	</div>
+	<div class="mySlides root fade">
+		<h3>Root Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/rootChakra.png" class="root">
+			</div>
+		<p class="root">
+		Root Chakra: the Muladhara is the chakra of stability, security and our basic needs. 
+		It encompasses the first three vertebrae, the bladder, and the colon. 
+		When this chakra is open, we feel safe and fearless.
+		</p>
+		<p class="root">
+		The root chakra stone is red or black.
+		Gemstones include garnet, red jasper, black tourmaline, and bloodstone. 
+		</p>
+		<p class="root">
+		In daily life, physical exercise, yoga, walking or dancing will strengthen your root chakra. 
+		</p>
+	</div>
+	
+	<div class="mySlides sacral fade">
+		<h3>Sacral Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/sacralChakra.png" class="sacral">
+			</div>
+		<p class="sacral">
+		Sacral Chakra: the Svadhisthana chakra is our creativity and sexual center. 
+		It is located above <br>the pubic bone, below the navel, <br>and is responsible for our creative expression.
+		</p>
+		<p class="sacral">
+		The sacral chakra stone is orange. Gemstones include Citrine, Carnelian, Golden Topaz. 
+		</p>
+		<p class="sacral">
+		In daily life, being creative for others will strengthen your sacral chakra.
+		</p>
+	</div>
+
+	<div class="mySlides solarplexus fade">
+		<h3 class="black">Solar Plexus Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/solarplexusChakra.png" class="solarplexus">
+			</div>
+		<p class="solarplexus">
+		Solar Plexus Chakra: the Manipura chakra means lustrous gem.
+		It’s the area from the navel to the breastbone and is our source of personal power.
+		</p>
+		<p class="solarplexus">
+		The solar plexus chakra stone is yellow.
+		Gemstones include Amber, Yellow Citrine, Topaz. 
+		</p>
+		<p class="solarplexus">
+		In daily life, trying new things and accomplishing goals will strengthen your solar plexus chakra.
+		</p>
+	</div>
+
+	<div class="mySlides heart fade">
+		<h3>Heart Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/heartChakra.png" class="heart">
+			</div>
+		<p class="heart">
+		Heart Chakra: the Anahata unites the lower chakras of matter and upper chakras of spirit. 
+		It bridges our body, mind, emotions, and spirit and is our source of love and connection.
+		</p>
+		<p class="heart">
+		The heart chakra stone is green. Pink is used for emotional clearing.
+		Gemstones include Rose Quartz, Malachite, Green Jade. 
+		</p>
+		<p class="heart">
+		In daily life, looking through someone else's eyes and showing gratitude will strengthen your heart chakra.
+		</p>
+
+	</div>
+
+	<div class="mySlides throat fade">
+		<h3>Throat Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/throatChakra.png" class="throat">
+			</div>
+		<p class="throat">
+		Throat Chakra: the Vishuddha chakra is located in the throat and 
+		includes the neck, thyroid, and parathyroid glands, jaw, mouth, and tongue.
+		This is our source of verbal expression and the ability to speak our highest truth. 
+		</p>
+		<p class="throat">
+		The throat chakra stone is blue.
+		Gemstones include Turquoise, Aquamarine, Lapis Lazuli. 
+		</p>
+		<p class="throat">
+		In daily life, singing loudly and friendly conversations will strengthen the throat chakra. 
+		</p>
+	</div>
+
+	<div class="mySlides brow fade">
+		<h3>Brow Chakra</h3>
+			<div class="centerDiv">
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/browChakra.png" class="brow">
+			</div>
+		<p class="brow">
+		Brow Chakra: the Ajna chakra is located between the eyebrows.
+		It is our intuition known as the “third eye”.
+		</p>
+		<p class="brow">
+		The brow chakra stone is indigo or dark blue. 
+		Gemstones include Amethyst, Fluorite, Azurite. 
+		</p>
+		<p class="brow">
+		In daily life, reserving time for yourself to: reflect on your day, 
+		write down your dreams and finding wisdom from loss or pain 
+		can strengthen your brow chakra. 
+		</p>
+	</div>
+
+
+
+	<div class="mySlides crown fade">
+		<h3>Crown Chakra</h3>
+			<div class="centerDiv">
+
+				<button class="previous" onclick="plusSlides(-1)"><</button>
+				<button class="next" onclick="plusSlides(+1)">></button>
+					<img src="images/crownChakra.png" class="crown">
+			</div>
+		<p class="crown">
+		Crown Chakra: the Sahaswara chakra is located at the crown of the head. 
+		This is the chakra of enlightenment and spiritual connection to <br>our higher selves, 
+		others, and ultimately to the divine. 
+		</p>
+		<p class="crown">
+		The crown chakra stone is violet, gold or white. 
+		Gemstones include Clear Quartz, Diamond, Amethyst. 
+		</p>
+		<p class="crown">
+		In daily life, meditation will strengthen the crown chakra. 
+		</p>
+	</div>
+</div>
+</main>
+
+<script>
+document.body.style.overflow = "hidden";
+<!-- the nav modal box -->
+var modal = document.getElementById('myModal');
+var btn = document.getElementById("navButton");
+var span = document.getElementsByClassName("close")[0];
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+span.onclick = function() {
+    modal.style.display = "none";
+}
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+<!-- script to cue forward/previous to next panels -->
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  if (n > slides.length) {slideIndex = 1} 
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none"; 
+  }
+  slides[slideIndex-1].style.display = "block"; 
+}
+
+</script>
+
+</body>
+</html>
+
